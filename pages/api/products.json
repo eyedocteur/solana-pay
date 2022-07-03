@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Emojis.zip",
+    "hash": "QmWWH69mTL66r3H8P4wUn24t1L5pvdTJGUTKBqT11KCHS5"
+  },
+  {
+    "id": 2,
+    "name": "unicamp",
+    "price": "",
+    "image_url": "https://bafybeibbn4djupgodgbzbe2f3ndnovrjipdv7ywflvrnrxw3tn5x4fmcri.ipfs.nftstorage.link/3.png",
+    "description": "unicamp"
+  },
+  {
+    "id": 3,
+    "name": "oft unicamp",
+    "price": "",
+    "image_url": "https://bafybeiaegclqwjij7ipelvjcmntfkfeu4opm4hg5gf5xeytmqzicfwdh7y.ipfs.nftstorage.link/2.png",
+    "description": "oft"
+  }
+]
